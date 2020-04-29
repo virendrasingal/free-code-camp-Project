@@ -1,4 +1,4 @@
-# free-code-camp-Project
+# freeCodeCampProject
 Apllied Responsive Web Design Projects
 1. Tribute Page
 
