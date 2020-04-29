@@ -1,7 +1,7 @@
 # free-code-camp-Project
 Apllied Responsive Web Design Projects
-Tribute Page
+1. Tribute Page
 
-Survey Form
+2. Survey Form
 
-Product Landing Page
+3. Product Landing Page
